@@ -1,0 +1,25 @@
+{
+  "name": "webpack-4",
+  "version": "1.0.0",
+  "description": "This is a change on my README\r Other Change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zago-code/webpack-4.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "@Gabriel Zarate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zago-code/webpack-4/issues"
+  },
+  "homepage": "https://github.com/zago-code/webpack-4#readme",
+  "devDependencies": {
+    "webpack": "4.32.2"
+  }
+}
